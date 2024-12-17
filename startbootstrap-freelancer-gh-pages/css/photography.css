@@ -1,0 +1,18 @@
+/* Set the background color of the entire page */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the main heading */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Style paragraphs */
+p {
+    color: darkgreen;
+    font-size: 18px;
+    line-height: 1.5;
+}
